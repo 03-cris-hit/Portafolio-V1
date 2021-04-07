@@ -35,5 +35,4 @@ console.log('--------- Logical Expressions // Logical OR (||)  ----------')
 console.log(num1 > 0 || num2 > 0);
 console.log('--------- Logical Expressions // Logical NOT (!)  ----------')
 console.log(num1 > 0 != num2 > 0);
-console.log('--------- Assignment Expressions//Assignment with Operation ----------')
 
